@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">A passionate Full-Stack Developer from Philippines</h3>
+<h1 align="center">Hello, I'm Kevin</h1>
+<h3 align="center">Some Full-Stack Developer from Philippines</h3>
 
 - 🔭 I’m currently working on [php_pos_system](https://github.com/hyewonn777/php_pos_system)
 
